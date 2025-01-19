@@ -1,0 +1,59 @@
+{
+  "parser-directories": [
+    "/home/sean/github",
+    "/home/sean/src",
+    "/home/sean/source",
+    "/home/sean/projects",
+    "/home/sean/dev",
+    "/home/sean/git"
+  ],
+  "theme": {
+    "variable.parameter": {
+      "underline": true
+    },
+    "embedded": null,
+    "punctuation.delimiter": 239,
+    "constant.builtin": {
+      "color": 94,
+      "bold": true
+    },
+    "string.special": 30,
+    "function": 26,
+    "operator": {
+      "color": 239,
+      "bold": true
+    },
+    "module": 136,
+    "type": 23,
+    "variable.builtin": {
+      "bold": true
+    },
+    "property": 124,
+    "type.builtin": {
+      "color": 23,
+      "bold": true
+    },
+    "tag": 18,
+    "comment": {
+      "italic": true,
+      "color": 245
+    },
+    "constructor": 136,
+    "keyword": 56,
+    "constant": 94,
+    "punctuation.bracket": 239,
+    "string": 28,
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "attribute": {
+      "italic": true,
+      "color": 124
+    },
+    "number": {
+      "color": 94,
+      "bold": true
+    }
+  }
+}
